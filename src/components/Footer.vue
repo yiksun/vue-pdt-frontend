@@ -1,7 +1,7 @@
 <template>
     <footer>
         <el-divider><i class="el-icon-info"></i></el-divider>
-        <el-link href="http://www.beian.miit.gov.cn" type="info" target="_blank">粤ICP备19111233号-1</el-link>
+        <el-link href="http://test.cn" type="info" target="_blank">Footer</el-link>
     </footer>
 </template>
 
